@@ -1,0 +1,31 @@
+..\output\encode.o: ..\USER\APP\encode.c
+..\output\encode.o: ..\USER\APP\encode.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\Include\HAL_device.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\Include\MM32SPIN2xx_p.h
+..\output\encode.o: ..\Device\CMSIS\KEIL_CORE\core_cm0.h
+..\output\encode.o: D:\Program Files (x86)\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\encode.o: ..\Device\CMSIS\KEIL_CORE\core_cmInstr.h
+..\output\encode.o: ..\Device\CMSIS\KEIL_CORE\core_cmFunc.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_conf.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\Include\HAL_device.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_adc.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_crc.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_comp.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_dma.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_div.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_exti.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_flash.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_gpio.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_i2c.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_iwdg.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_op.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_pwr.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_rcc.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_spi.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_tim.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_uart.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_wwdg.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_misc.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\HAL_lib\inc\HAL_syscfg.h
+..\output\encode.o: ..\Device\MM32SPIN2xx_p_LIB\Include\system_MM32SPIN2xx_p.h
+..\output\encode.o: D:\Program Files (x86)\keil\ARM\ARMCC\Bin\..\include\math.h
